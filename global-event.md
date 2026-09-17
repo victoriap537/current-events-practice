@@ -4,6 +4,8 @@ Date: September 17, 2026
 
 This page covers world news. It shares simple updates.
 
+![World news illustration](images/global-event.png)
+
 - News
 - Updates
 
